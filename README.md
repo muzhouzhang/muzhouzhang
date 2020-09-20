@@ -1,35 +1,17 @@
 Welcome! I'm a first-year PhD student in Essex's Department of Government.
 
-<br />
-
 ## Education
 University of Essex, UK
 
-<p style = "text-align:left;">
-    PhD, Government (Supervisor: Tobias Böhmelt)
-    <span style = "float:right;">
-    October 2020–
-    </span>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD, Government (Supervisor: Tobias Böhmelt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 2020–
 
-<p style = "text-align:left;">
-    MRes, Political Science
-    <span style = "float:right;">
-    October 2018–September 2020
-    </span>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MRes, Political Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 2018–September 2020
 
 <br />
+
 Capital Normal University, China
 
-<p style = "text-align:left;">
-    BA, Politics and Public Administration (Ranking: 1/32)
-    <span style = "float:right;">
-    September 2014–June 2018
-    </span>
-</p>
-
-<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BA, Politics and Public Administration (Ranking: 1/32)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 2014–June 2018
 
 ## Research
 "Does Mass Shooting Influence Attitudinal Change? New Evidence from Orlando 2016" (with Joseph Kelly) [[paper]]() [[replication]](https://github.com/muzhouzhang/zhang_kelly_2020)
