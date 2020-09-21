@@ -14,4 +14,4 @@ Capital Normal University, China
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BA, Politics and Public Administration (Ranking: 1/32)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 2014–June 2018
 
 ## Research
-"Does Mass Shooting Influence Attitudinal Change? New Evidence from Orlando 2016" (with Joseph Kelly) [[paper]]() [[replication]](https://github.com/muzhouzhang/zhang_kelly_2020)
+"Does Mass Shooting Influence Attitudinal Change? New Evidence from Orlando 2016" (with Joseph Kelly) [[paper]](https://github.com/muzhouzhang/muzhouzhang/blob/master/zhang_kelly_2020.pdf) [[replication]](https://github.com/muzhouzhang/zhang_kelly_2020)
