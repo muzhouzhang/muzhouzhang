@@ -2,7 +2,7 @@ Department of Government, University of Essex
 
 Wivenhoe Park, CO4 3SQ
 
-`muzhou.zhang@essex.ac.uk`
+`muzhou[dot]zhang[at]essex[dot]ac[dot]uk`
 
 ## Education
 University of Essex, UK
